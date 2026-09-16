@@ -1,0 +1,9 @@
+
+/* Focus */
+input:focus{
+    border-color: orange;
+    outline: none;
+}
+h1:hover{
+    color: blue;
+}

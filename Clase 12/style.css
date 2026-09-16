@@ -1,0 +1,15 @@
+:root{
+    --ColorPrincipal: #ce7e7e; 
+}
+
+a{
+    text-decoration: none;
+    color: #ce7e7e;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    background-color: chartreuse;
+    
+}
